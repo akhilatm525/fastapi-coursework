@@ -1,4 +1,4 @@
-from ctypes import FormatError
+
 from enum import unique
 from sqlalchemy import TIMESTAMP, Column, ForeignKey, Integer, String, Boolean
 from sqlalchemy.sql.expression import null, text
